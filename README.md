@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Rudy, a developer from China, focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, committed to SDGs (Sustainable Development Goals).
+I'm Rudy, a developer from China, focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, also committed to SDGs (Sustainable Development Goals).
 
 Professional resume: 工控 -> 军工 -> 物联网 -> 汽车
 
