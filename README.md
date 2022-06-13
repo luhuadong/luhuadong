@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, committed to SDGs (Sustainable Development Goals).
 
-Professional resume: 数控 -> 军工 -> 物联网 -> 汽车
+Professional resume: 工控 -> 军工 -> 物联网 -> 汽车
