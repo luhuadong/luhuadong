@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, committed to SDGs (Sustainable Development Goals).
+I'm Rudy, a developer from China, focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, committed to SDGs (Sustainable Development Goals).
 
 Professional resume: 工控 -> 军工 -> 物联网 -> 汽车
+
+I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much!
+
+At the same time, I'm a eco-friendly hacker, release some DIY project for Good.
