@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Rudy, a developer from China, focus on the field of AIoT (Artificial Intelligence & Internet of things) technology, also committed to SDGs (Sustainable Development Goals).
+I'm **Rudy**, a developer from China :cn:, focus on the field of **AIoT** (Artificial Intelligence & Internet of things) technology, also committed to **SDGs** (Sustainable Development Goals).
 
-Professional resume: 工控 -> 军工 -> 物联网 -> 汽车
+Professional resume: 工控 -> 军工 -> 物联网 -> 汽车 :large_blue_circle:
 
-I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much!
+I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much! :heart: Freedom
 
 ![luhuadong's github stats](https://github-readme-stats.vercel.app/api?username=luhuadong)
 
-At the same time, I'm a eco-friendly hacker, release some DIY project for Good.
+
+At the same time, I'm a eco-friendly hacker, release some DIY project for Good. :point_down:
 
 ![](https://static.getiot.tech/SDGs-poster-768x456.png)
