@@ -26,4 +26,4 @@ I had contributed code to RT-Thread, Linux and the other open-source project. I 
 
 At the same time, I'm a eco-friendly hacker, release some DIY project for Good. :point_down:
 
-![](https://static.getiot.tech/SDGs-poster-768x456.png)
+![](https://static.getiot.tech/SDGs-Chinese.png)
