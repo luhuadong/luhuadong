@@ -21,4 +21,6 @@ Professional resume: 工控 -> 军工 -> 物联网 -> 汽车
 
 I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much!
 
+![luhuadong's github stats](https://github-readme-stats.vercel.app/api?username=luhuadong)
+
 At the same time, I'm a eco-friendly hacker, release some DIY project for Good.
