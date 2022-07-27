@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm **Rudy**, a developer from China :cn:, focus on the field of **AIoT** (Artificial Intelligence & Internet of things) technology, also committed to **SDGs** (Sustainable Development Goals).
 
-Professional resume: 工控 -> 军工 -> 物联网 -> 汽车 :large_blue_circle:
+Professional resume: 工控 -> 军工 -> 物联网 -> 汽车 -> 碳中和 :large_blue_circle:
 
 I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much! :heart: Freedom
 
