@@ -26,3 +26,10 @@ I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread
 
 At the same time, I'm a eco-friendly hacker, release some DIY project for Good. :point_down:
 
+---
+
+More >>
+
+- :pig: My Blog: [luhuadong.com](https://luhuadong.com)
+- 👨‍🔧 IoT tutorials: [getiot.tech](https://getiot.tech)
+- 🌍 Eco-Handbook: [docs.zerotogether.net](https://docs.zerotogether.net)
