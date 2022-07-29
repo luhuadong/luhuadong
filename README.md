@@ -19,7 +19,7 @@ I'm **Rudy**, a developer from China :cn:, focus on the field of **AIoT** (Artif
 
 Professional resume: 工控 -> 军工 -> 物联网 -> 汽车 -> 碳中和 :large_blue_circle:
 
-I had contributed code to RT-Thread, Linux and the other open-source project. I like them so much! :heart: Freedom
+I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl) and the other open-source project. I like them so much! :heart: Freedom
 
 ![luhuadong's github stats](https://github-readme-stats.vercel.app/api?username=luhuadong)
 
