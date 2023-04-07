@@ -32,4 +32,4 @@ More >>
 
 - :pig: My Blog: [luhuadong.com](https://luhuadong.com)
 - 👨‍🔧 IoT tutorials: [getiot.tech](https://getiot.tech)
-- 🌍 Eco-Handbook: [docs.zerotogether.net](https://docs.zerotogether.net)
+- 🌍 零废弃部落: [zerotogether.net](https://zerotogether.net)
