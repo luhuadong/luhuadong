@@ -19,7 +19,7 @@ I'm **Rudy**, a developer from China 🇨🇳, focus on the field of **AIoT** (A
 
 Professional resume: Robotics -> Telecom -> IoT -> EV -> Maker/Open-source/SDGs 🌍
 
-I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl) and the other open-source project. I like them so much! :heart: Freedom
+I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl), [openEuler](https://gitee.com/openeuler) and the other open-source project. I like them so much! :heart: Freedom
 
 ![luhuadong's github stats](https://github-readme-stats.vercel.app/api?username=luhuadong)
 
