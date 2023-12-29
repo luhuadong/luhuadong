@@ -27,4 +27,4 @@ I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread
 
 The RT-Thread packages I have created or contributed to include: [bc28_mqtt](https://github.com/luhuadong/rtt-bc28-mqtt), [littled](https://github.com/luhuadong/rtt-littled), [ssd1306](https://github.com/luhuadong/rtt-ssd1306), [dhtxx](https://github.com/luhuadong/rtt-dhtxx), [gp2y10](https://github.com/luhuadong/rtt-gp2y10), [sgp30](https://github.com/luhuadong/rtt-sgp30), [ccs811](https://github.com/luhuadong/rtt-ccs811), [bme680](https://github.com/luhuadong/rtt-bme680), [pmsxx](https://github.com/luhuadong/rtt-pmsxx), [at_device](https://github.com/RT-Thread-packages/at_device).
 
-At the same time, I'm a eco-friendly hacker, release some DIY project for Good. 🔥
+At the same time, I'm a eco-friendly hacker, doing some DIY project for Good. 🔥
