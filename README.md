@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I'm **Rudy**, a developer from China 🇨🇳, focus on the field of **AIoT** (Artificial Intelligence & Internet of things) technology, also committed to **SDGs** (Sustainable Development Goals).
 
-Professional resume: Robotics -> Telecom -> IoT -> EV -> Maker/Open-source/SDGs 🌍
+Career experiences: Robotics -> Telecom -> IoT -> EV -> Maker/Open-source/SDGs 🌍
 
 I had contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl), [openEuler](https://gitee.com/openeuler), [ShokaX](https://github.com/theme-shoka-x) and the other open-source project. I like them so much! :heart: Freedom
 
