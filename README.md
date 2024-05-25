@@ -52,7 +52,7 @@ Projects I have created and maintained include [GetIoT.tech](https://github.com/
 
 Some simple online web tools: [watermarking](https://github.com/luhuadong/watermarking), [color-picker](https://github.com/luhuadong/color-picker), [image-compare](https://github.com/luhuadong/image-compare), [calculator](https://github.com/luhuadong/calculator), [timestamp](https://github.com/luhuadong/timestamp) ...
 
-At the same time, I'm a eco-friendly hacker, doing some DIY project for Good. 🔥
+At the same time, I'm a eco-friendly hacker, doing some DIY project for Good. 🤗
 
 <div align="left">
     👉 <a href="https://blog.csdn.net/lu_embedded"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
