@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="120"
+     viewBox="0 0 600 120">
+
+  <style>
+    .title {
+      font-family: monospace;
+      font-size: 36px;
+      fill: #58A6FF;
+      font-weight: 600;
+    }
+    .subtitle {
+      font-family: monospace;
+      font-size: 22px;
+      fill: #8B949E;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .title { fill: #0969DA; }
+      .subtitle { fill: #57606A; }
+    }
+  </style>
+
+  <!-- 主标题 -->
+  <text x="50%" y="48"
+        text-anchor="middle"
+        class="title">
+    Hello, World
+  </text>
+
+  <!-- 副标题 -->
+  <text x="50%" y="90"
+        text-anchor="middle"
+        class="subtitle">
+    每天进步一点点
+  </text>
+</svg>
