@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 24px;
+      fill: #58A6FF;
+    }
+  </style>
+
+  <text x="10" y="40">
+    <animate
+      attributeName="textContent"
+      dur="5s"
+      repeatCount="indefinite"
+      values="
+      H;He;Hel;Hell;Hello;Hello,;Hello, ;Hello, W;Hello, Wo;Hello, Wor;Hello, Worl;Hello, World!;
+      每;每天;每天进;每天进步;每天进步一;每天进步一点;每天进步一点点
+      "
+    />
+  </text>
+</svg>
