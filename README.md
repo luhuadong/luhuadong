@@ -3,17 +3,32 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(Hello%2C%20World!);每天进步一点点!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &pause=1000
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=500
-    &lines=Hello%2C+World!;每天进步一点点"
-  />
-</p>
+  <div>
+    <svg width="500" height="60" viewBox="0 0 500 60"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 24px;
+      fill: #58A6FF;
+    }
+  </style>
+
+  <text x="10" y="40" class="text">
+    <tspan id="t1"></tspan>
+    <animate
+      xlink:href="#t1"
+      attributeName="textContent"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+      H;He;Hel;Hell;Hello;Hello,;Hello, ;Hello, W;Hello, Wo;Hello, Wor;Hello, Worl;Hello, World!;
+      每;每天;每天进;每天进步;每天进步一;每天进步一点;每天进步一点点"
+    />
+  </text>
+    </svg>
+  </div>
 
 
 
