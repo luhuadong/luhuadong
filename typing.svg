@@ -1,21 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="60">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520" height="60"
+     viewBox="0 0 520 60">
+
   <style>
-    text {
+    .text {
       font-family: monospace;
-      font-size: 24px;
+      font-size: 26px;
       fill: #58A6FF;
     }
   </style>
 
-  <text x="10" y="40">
-    <animate
-      attributeName="textContent"
-      dur="5s"
-      repeatCount="indefinite"
-      values="
-      H;He;Hel;Hell;Hello;Hello,;Hello, ;Hello, W;Hello, Wo;Hello, Wor;Hello, Worl;Hello, World!;
-      每;每天;每天进;每天进步;每天进步一;每天进步一点;每天进步一点点
-      "
-    />
+  <!-- 定义遮罩 -->
+  <mask id="typing-mask">
+    <!-- 白色 = 可见 -->
+    <rect x="0" y="0" height="60" width="0" fill="white">
+      <animate
+        attributeName="width"
+        from="0"
+        to="520"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </mask>
+
+  <!-- 实际文字（一次性写全） -->
+  <text x="10" y="40"
+        class="text"
+        mask="url(#typing-mask)">
+    Hello, World ｜ 每天进步一点点
   </text>
 </svg>
