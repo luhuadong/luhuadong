@@ -6,7 +6,10 @@
     .text {
       font-family: monospace;
       font-size: 26px;
-      fill: #58A6FF;
+      fill: #FF8C42;
+    }
+    @media (prefers-color-scheme: light) {
+      .text { fill: #D9480F; }
     }
   </style>
 
