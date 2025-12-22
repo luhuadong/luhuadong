@@ -3,6 +3,19 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(Hello%2C%20World!);每天进步一点点!&center=true&size=27" alt="Typing SVG" />
   </div>
 
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &pause=1000
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=500
+    &lines=Hello%2C+World!;每天进步一点点"
+  />
+</p>
+
+
 
 ### Hi there 👋
 
