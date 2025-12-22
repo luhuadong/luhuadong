@@ -16,10 +16,10 @@
     <rect x="0" y="0" height="60" width="0" fill="white">
       <animate
         attributeName="width"
-        from="0"
-        to="520"
-        dur="4s"
+        dur="6.7s"
         repeatCount="indefinite"
+        values="0;520;520"
+        keyTimes="0;0.6;1"
       />
     </rect>
   </mask>
