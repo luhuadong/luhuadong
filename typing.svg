@@ -4,7 +4,7 @@
 
   <style>
     .text {
-      font-family: monospace;
+      font-family: "JetBrains Mono", "Fira Code", monospace;
       font-size: 26px;
       font-weight: 600;
       fill: #FF7700;
