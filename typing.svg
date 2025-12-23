@@ -6,6 +6,7 @@
     .text {
       font-family: monospace;
       font-size: 26px;
+      font-weight: 600;
       fill: #FF7700;
     }
     @media (prefers-color-scheme: light) {
