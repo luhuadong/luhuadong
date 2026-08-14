@@ -88,16 +88,14 @@ I believe in open source, lifelong learning, and freedom. ❤️
 
 ## GitHub Activity
 
-## GitHub Activity
-
 <p align="center">
   <img
-    width="49%"
+    height="200"
     src="https://github-stats-extended.vercel.app/api?username=luhuadong&show_icons=true"
     alt="Rudy's GitHub statistics"
   />
   <img
-    width="49%"
+    height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=luhuadong&layout=compact&langs_count=8"
     alt="Rudy's most-used languages"
   />
