@@ -12,7 +12,7 @@ I'm an embedded Linux and robotics software engineer from China 🇨🇳, with m
 
 My engineering journey spans:
 
-**Hardware Engineering → Industrial Automation & Robotics → Telecommunications → IoT → Electric Vehicles → Indie Hacker → Robotics**
+**Hardware → Industrial Robotics → Telecommunications → IoT → Electric Vehicles → Indie Hacker → Robotics**
 
 I focus on **embedded Linux**, **robotics**, and **AIoT**, while also exploring how open source, STEM education, and technology can contribute to the **Sustainable Development Goals (SDGs)**.
 
