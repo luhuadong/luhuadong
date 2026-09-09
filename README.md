@@ -82,6 +82,10 @@ I believe in open source, lifelong learning, and freedom. ❤️
 [ODYSSEY-STM32MP157C](https://github.com/luhuadong/ODYSSEY-STM32MP157C) ·
 [smart-jack](https://github.com/luhuadong/smart-jack)
 
+### Others
+
+[prox](https://github.com/luhuadong/prox)
+
 ## Technologies
 
 `C` · `C++` · `Python` · `Rust` · `Linux` · `RTOS` · `CMake` · `Qt` · `Embedded Systems` · `Networking` · `Robotics`
