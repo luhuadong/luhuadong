@@ -25,7 +25,7 @@ I focus on **embedded Linux**, **robotics**, and **AIoT**, while also exploring 
 
 ### Open-source contributions
 
-I have contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl), [openEuler](https://gitee.com/openeuler), [ShokaX](https://github.com/theme-shoka-x), and other open-source projects.
+I have contributed code to [Linux](https://github.com/torvalds/linux), [RT-Thread](https://github.com/RT-Thread/rt-thread), [LVGL](https://github.com/lvgl/lvgl), [openEuler](https://gitee.com/openeuler), [TDengine](https://github.com/taosdata/tdengine) and other open-source projects.
 
 I believe in open source, lifelong learning, and freedom. ❤️
 
@@ -84,7 +84,7 @@ I believe in open source, lifelong learning, and freedom. ❤️
 
 ### Others
 
-[prox](https://github.com/luhuadong/prox)
+[prox](https://github.com/luhuadong/prox), [ShokaX](https://github.com/theme-shoka-x)
 
 ## Technologies
 
